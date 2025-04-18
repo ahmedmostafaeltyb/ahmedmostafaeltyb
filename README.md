@@ -22,7 +22,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/salahzouagri" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-moustafa-511b8b2a5/" target="_blank">
   <img src="https://img.shields.io/badge/-Salah%20Eddine%20Zouagri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ahmed-moustafa-511b8b2a5/" target="_blank">
