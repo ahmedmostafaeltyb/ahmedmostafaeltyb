@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Salah Eddine Zouagri's profile!
+  Welcome to Ahmed moustafa profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -12,9 +12,9 @@
   </a>
 </p> 
 
-- 🧠 I'm currently diving deep into front-end development through an intensive bootcamp  
+- 🧠 I'm currently diving deep into mobile App development through an intensive bootcamp  
 - 🎯 Focused on becoming a **junior web developer** ready to build sleek, responsive interfaces  
-- 👨‍💻 Learning JavaScript, React, and modern development tools step by step  
+- 👨‍💻 Learning java, dart,flutter and modern development tools step by step  
 - ☕ Fun Fact: I thrive on curiosity (and late-night code + coffee combos)  
 - 🌐 Future portfolio coming soon — stay tuned!
 
@@ -25,14 +25,14 @@
 <a href="https://linkedin.com/in/salahzouagri" target="_blank">
   <img src="https://img.shields.io/badge/-Salah%20Eddine%20Zouagri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:salah.zouagri98@gmail.com" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-moustafa-511b8b2a5/" target="_blank">
   <img src="https://img.shields.io/badge/-salah.zouagri98@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
 ---
 
 ### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![DART](https://img.shields.io/badge/-DART-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
