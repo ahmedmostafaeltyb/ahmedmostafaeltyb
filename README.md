@@ -23,10 +23,10 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/ahmed-moustafa-511b8b2a5/" target="_blank">
-  <img src="https://img.shields.io/badge/-Salah%20Eddine%20Zouagri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ahmed%20Moustafa%20Eltyb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ahmed-moustafa-511b8b2a5/" target="_blank">
-  <img src="https://img.shields.io/badge/-salah.zouagri98@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ahmedmousrfa@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
 ---
