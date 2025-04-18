@@ -13,8 +13,8 @@
 </p> 
 
 - 🧠 I'm currently diving deep into mobile App development through an intensive bootcamp  
-- 🎯 Focused on becoming a **junior web developer** ready to build sleek, responsive interfaces  
-- 👨‍💻 Learning java, dart,flutter and modern development tools step by step  
+- 🎯 Focused on becoming a **junior mobile App developer** ready to build sleek, responsive interfaces  
+- 👨‍💻 Learning Java, Dart,, Flutter and modern development tools step by step  
 - ☕ Fun Fact: I thrive on curiosity (and late-night code + coffee combos)  
 - 🌐 Future portfolio coming soon — stay tuned!
 
@@ -32,7 +32,7 @@
 ---
 
 ### 🛠 &nbsp;Tech Stack
-![DART](https://img.shields.io/badge/-DART-05122A?style=flat&logo=HTML5)&nbsp;
+![DART](https://img.shields.io/badge/-DART-05122A?style=flat&logo=DART)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
